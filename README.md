@@ -2,8 +2,6 @@
 
 -I’m interested in computer engineering
 
--I’m currently learning Python Programming Language
-
 -How to reach me: ihsansimsek5335@gmail.com
 
 <!---
