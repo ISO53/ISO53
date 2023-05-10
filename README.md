@@ -1,6 +1,6 @@
 -Hi, I’m @ISO53
 
--I’m interested in computer engineering
+-I like coding
 
 -How to reach me: ihsansimsek5335@gmail.com
 
